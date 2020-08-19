@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"example.com/auth/adapters/database/queries"
-	"example.com/auth/models"
+	"github.com/lucasasoaresmar/go-rest/adapters/database/queries"
+	"github.com/lucasasoaresmar/go-rest/models"
 )
 
 // User implements UserRepository

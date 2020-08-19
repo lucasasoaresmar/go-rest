@@ -1,4 +1,4 @@
-module example.com/auth
+module github.com/lucasasoaresmar/go-rest
 
 go 1.15
 

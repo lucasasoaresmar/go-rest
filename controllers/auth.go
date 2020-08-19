@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"example.com/auth/adapters/token"
-	"example.com/auth/models"
+	"github.com/lucasasoaresmar/go-rest/adapters/token"
+	"github.com/lucasasoaresmar/go-rest/models"
 )
 
 // Auth http handlers

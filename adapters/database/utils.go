@@ -3,7 +3,7 @@ package database
 import (
 	"database/sql"
 
-	"example.com/auth/adapters/database/queries"
+	"github.com/lucasasoaresmar/go-rest/adapters/database/queries"
 	// Driver
 	_ "github.com/mattn/go-sqlite3"
 )

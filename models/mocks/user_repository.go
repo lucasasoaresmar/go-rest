@@ -1,7 +1,7 @@
 package mocks
 
 import (
-	"example.com/auth/models"
+	"github.com/lucasasoaresmar/go-rest/models"
 )
 
 // MockedUserRepository expects an error and an user to be returned

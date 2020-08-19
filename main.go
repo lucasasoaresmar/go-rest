@@ -5,9 +5,9 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"example.com/auth/adapters/database"
-	"example.com/auth/adapters/token"
-	"example.com/auth/controllers"
+	"github.com/lucasasoaresmar/go-rest/adapters/database"
+	"github.com/lucasasoaresmar/go-rest/adapters/token"
+	"github.com/lucasasoaresmar/go-rest/controllers"
 )
 
 const port = ":3000"
